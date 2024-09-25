@@ -98,7 +98,7 @@ and an effective dielectric constant of $\epsilon$<sub>r</sub> $= 1/VF^2 = 1.110
 
 Using the equation for $Z_o$ in free space, and the spacing and diameter of our wires:
 
-$Z_o = 119.92 cosh^(-1)(3 / 0.0641) = 544.3 \Omega$
+$Z_o = 119.92 cosh^-1(3 / 0.0641) = 544.3 \Omega$
 
 
 
