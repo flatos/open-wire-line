@@ -86,8 +86,11 @@ Using my VNA and a balun, I observed the frequencies of the nulls that appear at
 | Freq (MHz) | WL | Implied electrical length (ft) |
 | --- | --- | --- |
 | 3.546 | 1/4 $\lambda$ | 69.344 |
+| 10.5729 | 3/4 $\lambda$ | 69.771 |
+| 17.675 | 5/4 $\lambda$ | 69.559 |
+| 24.780 | 7/4 $\lambda$ | 69.461 |
 
-
+Averaging these results, we get a velocity factor of $VF = 66.0 / 69.531 = 0.949$
 
 
 
