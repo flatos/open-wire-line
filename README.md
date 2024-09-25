@@ -85,7 +85,7 @@ Using my VNA and a balun, I observed the frequencies of the nulls that appear at
 
 | Freq (MHz) | WL | Implied electrical length (ft) |
 | --- | --- | --- |
-| 3.546 | 1/4 \lambda | 69.344 |
+| 3.546 | 1/4 $\lambda$ | 69.344 |
 
 
 
