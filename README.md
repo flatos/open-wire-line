@@ -25,11 +25,34 @@ Some other wire with the same jacket diameter (0.115") would presumably work jus
 I decided on a wire spacing of 3 inches, with spacers placed every 18 inches, purely for mechanical (or aesthetic?) reasons.
 The wire spacing isn't very significant electrically -- practical values all result in characteristic impedancess in the 500 - 600 ohm range.
 
-ASA why, suppliers
+The spacers are printed from ASA filament, which is similar to ABS but known for its superior UV resistance.  
+Some domestic filament manufacturers I've purchased the ASA filament from are [Coex](https://coex3d.com/) and [3DXTech](https://www.3dxtech.com/).
+I've included versions which can be assembled using acetone as a solvent,  as well as a version that uses cable ties to attach the wires.
+
+
+## Models
+
+The models provided in the `\models` directory are:
+
+
+| | File | Desc |
+| :---: | :---: | --- | --- |
+| 1 | Spreader_3inch_4a.* | 3 inch spreader (for welding with acetone) |
+| 2 | Spreader_3inch_4a_1hole.* | ...same, with (1) mounting hole |
+| 3 | Spreader_3inch_4a_2hole.* | ...same, with (2) mounting holes |
+| 4 | Spreader_3inch_4b.* | Wire clips for above parts (2 per spreader) |
+| 5 | Spreader_3inch_6.* | Version for assembly with wire ties |
+
+
+
+Material cost per spacer is approximately $0.08.
 
 
 
 
+
+
+![Graph](img/Explode.png)
 [DX Engineering web site](https://www.dxengineering.com/)
 A redesigned fan shroud for the LulzBot HE tool head found on my Taz Workhorse 3D printer.
 
