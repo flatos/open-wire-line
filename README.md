@@ -68,39 +68,27 @@ After an hour or so the parts will have formed an extremely strong bond. The exa
 ![Graph](img/Assemble.png)
 
 
+I've also included a spacer for use with wire ties (the ones I used are 2.5 x 98mm).
+
+![Graph](img/Wire_tie.png)
+![Graph](img/Wire_tie_examples.png)
 
 
 
+## Performance
 
+I suspended a 66-foot-long section of transmission line in my workshop, without bends and separated by several feet from other objects, 
+and performed various measurements:
 
-![Graph](img/Explode.png)
-[DX Engineering web site](https://www.dxengineering.com/)
-A redesigned fan shroud for the LulzBot HE tool head found on my Taz Workhorse 3D printer.
+### Velocity factor
+Using my VNA and a balun, I observed the frequencies of the nulls that appear at odd multiples of a quarter wavelength.
 
-Probably (?) fits other tool heads too, but is not compatible with the other tool head I own, the HS+.
-
-I modified the existing design to allow the heater block to turn the entire 360 degrees without interference from the fan shroud. 
-I've been using this part for more than two years without problem.
-
-I used the original STL files from LulzBot to read off the exact locations of mating planes and mounting points; otherwise the design is original.
-
-This repository contains both the Solidworks models and STL files for the parts.
+| Freq (MHz) | WL | Implied electrical length (ft) |
+| --- | --- | --- |
+| 3.546 | 1/4 \lambda | 69.344 |
 
 
 
-## Description
-
-
-
-
-![Graph](img/top.png)
-![Graph](img/bot.png)
-![Graph](img/exploded.png)
-
-A rather rough-looking example printed in nylon-CF. I used ABS for the final print.
-
-![Graph](img/pic1.png)
-![Graph](img/pic2.png)
 
 
 ## Disclaimer
