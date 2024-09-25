@@ -48,6 +48,27 @@ The models provided in the `\models` directory are:
 Material cost per spacer is approximately $0.08.
 
 
+## Assembly
+
+![Graph](img/Exploded.png)
+
+The wire clips attach the wires to the spacer as shown above.  As produced on my printer, the clips snap firmly onto the spacers.
+If this isn't the case for your equipment, most (all?) 3D printing software will allow you to scale the model to be printed, allowing you
+to obtain a tight fit.
+
+I began by attaching the two wires to the center insulator I'll be using for the antenna, and stretching them tight using a bungie cord at the other end.
+
+Press the spacer onto the wires and apply a generous amount of acetone to all the mating surfaces before inserting the clips.
+The only problems I experienced were the result of being too stingy with the acetone.
+I used some cheap spring clamps (Harbor Freight, etc.) to hold things in place although I doubt this is necessary.
+
+After an hour or so the parts will have formed an extremely strong bond. The examples I've tested are impossible to pull apart manually.
+
+
+![Graph](img/Assemble.png)
+
+
+
 
 
 
