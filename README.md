@@ -91,7 +91,7 @@ Using my VNA and a balun, I observed the frequencies of the nulls that appear at
 | 24.780 | 7/4 $\lambda$ | 69.461 |
 
 Averaging these results, we get a velocity factor of $VF = 66.0 / 69.531 = 0.949$ 
-and an effective dielectric constant of $\epsilon<sub>r<\sub>$
+and an effective dielectric constant of $\epsilon$<sub>r<\sub>
 
 
 ## Disclaimer
