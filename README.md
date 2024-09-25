@@ -94,6 +94,13 @@ Averaging these results, we get a velocity factor of $VF = 66.0 / 69.531 = 0.949
 and an effective dielectric constant of $\epsilon$<sub>r</sub> $= 1/VF^2 = 1.110$
 
 
+### Characteristic impedance
+
+Using the equation for $Z_o$ in free space, and the spacing and diameter of our wires:
+
+$Z_o = 119.92 cosh^(-1)(3 / 0.0641) = 544.3 \Omega$
+
+
 
 ## Disclaimer
 You access to and use the contents of this site at your own risk.\
