@@ -36,7 +36,7 @@ The models provided in the `\models` directory are:
 
 
 | | File | Desc |
-| :---: | :---: | --- | --- |
+| :---: | --- | --- |
 | 1 | Spreader_3inch_4a.* | 3 inch spreader (for welding with acetone) |
 | 2 | Spreader_3inch_4a_1hole.* | ...same, with (1) mounting hole |
 | 3 | Spreader_3inch_4a_2hole.* | ...same, with (2) mounting holes |
