@@ -219,11 +219,12 @@ The Python code for generationg this graph can be found in the `\code` directory
 
 
 ## Conclusion
-The transmission line design described here is quick and easy to construct, at a modest price.\
-I have hopes that it will prove to be reliable in the face of long-term exposure to weather and UV radiation, 
+The transmission line designs described here are quick and easy to construct, at a modest price.\
+I have hope that it will prove to be reliable in the face of long-term exposure to weather and UV radiation, 
 although this remains to be seen.
 
-bare coppper weathering?
+I plan to leave the bare-wire line exposed to the elements and re-measure its loss in the future to see if oxidation
+of the copper has any effect on performance.
 
 ## Disclaimer
 You access to and use the contents of this site at your own risk.\
