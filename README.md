@@ -203,7 +203,7 @@ The following graph summarizes the attenuation of:
 </br>
 
 
-![Graph](img/loss.png)
+![Graph](img/Loss.png)
 
 </br>
 </br>
